@@ -1,0 +1,8 @@
+kivy
+kivymd
+python-dotenv
+sqlalchemy
+mysql-connector-python
+alembic
+validators
+passlib[bcrypt]
